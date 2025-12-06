@@ -1,4 +1,5 @@
 # VSC-Picat
+Note: no changes yet
 A VS Code extension which provides language support for Picat.
 
 ___________________
