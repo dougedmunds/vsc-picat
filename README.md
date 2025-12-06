@@ -1,5 +1,6 @@
 # VSC-Picat
-Note: no changes yet
+This is code for the original extension with two very minor changes so it will work in Windows.  The reason for the change is the differnce in use of backslashes vs forward slashes in Linus system. The original extension works in Linux.  This version will work in Linux or Windows systems.  All credits for development of the extension go to the original author.
+
 A VS Code extension which provides language support for Picat.
 
 ___________________
